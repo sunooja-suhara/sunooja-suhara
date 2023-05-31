@@ -3,9 +3,10 @@
 ### 👋 Hello there , I am Sunooja Suhara! 
 
 I'm skilled at: 
-- 📄  Data Analysis using R
-- 📈 Microsoft Excel
-- :bar_chart: Tableau
+- SQL-Data cleaning,Data manupulation
+- Visualisation - Tableau,Excel,PowerBI,Python
+- Python - Pandas,Matplot,NumPy
+- Statistics- RFM Analysis,Hypothesis Testing
 
 #### 📫 How to reach me:
 
